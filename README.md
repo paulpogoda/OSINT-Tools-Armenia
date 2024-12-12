@@ -15,9 +15,12 @@ Fell free to join to this project — [OSINT For Countries V2.0](https://github.
  - [WHOIS](#whois)
 
 ## Open Data portals
+- [E-Gov](https://www.e-gov.am/en/)
 - [Statistical Committee of the Republic of Armenia](https://armstat.am/en/)
+- [Laws, official documents etc.](https://www.arlis.am)
 - [Open Data Armenia](https://data.opendata.am/dataset/). Open Data Catalog Armenia is a resource that publishes data collected from the official websites and portals of government agencies, companies, NGOs and scientific organizations in Armenia. See [this project and some tools on GitHub](https://github.com/opendataam)
 ### Court Data
+- [Court Department Database](https://datalex.am)
 - [Constitutional Court of the Republic of Armenia Data](https://www.concourt.am/en/decisions/advanced-search)
 - [Court of Cassation of the Republic of Armenia Statistic](https://cassationcourt.am/en/report)
 - [List of Armenian courts](https://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarm.htm)
@@ -48,6 +51,7 @@ Fell free to join to this project — [OSINT For Countries V2.0](https://github.
 
 
 ## Public procurement
+- [Public procurements and reports](https://armeps.am/ppcm/public/reports#/home)
 - [Public procurement Portal](https://gnumner.minfin.am/ru/page/obyavlenie_i_priglashenie_na_otkrytyi_konkurs/)
 - [Tender Armenia](https://www.tender.am/ru/)
 - [Yerevan tenders on Bicotender](https://www.bicotender.ru/catalog/by-region/armeniya_erevan/)
