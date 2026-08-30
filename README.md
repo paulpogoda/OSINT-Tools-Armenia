@@ -28,6 +28,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Armenia Stock Exchange](https://amx.am/en)
 ## Legal Entities
 - [State Register of the Legal Entities of the Ministry of Justice of the Republic of Armenia](https://www.e-register.am/en/). 
+- [Reestri Armenia company and beneficial owners](https://apify.com/reestri/am-company-lookup). State register plus the official BODS beneficial-ownership declarations as JSON and MCP. Paid per lookup
+- [Reestri Armenia supplier public contracts](https://apify.com/reestri/am-supplier-contracts). Every public contract a supplier has won, from the official PPCM registry. Paid per lookup
 
 ## Maps
 - [Cadastre Commitee](https://www.cadastre.am/en/land_balance)
